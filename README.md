@@ -221,9 +221,10 @@ Displayed card include:
 
 ### Pixabay Image Search Page:
 
-![Pixabay Image Search](link-to-screenshot)
+<img width="1728" alt="Screenshot 2024-12-31 at 2 06 54 AM" src="https://github.com/user-attachments/assets/64111d93-c690-442b-b2ec-951c92dedfc7" />
+
 
 ### OpenWeather City Weather Page:
 
-![OpenWeather City Weather](link-to-screenshot)
+<img width="1728" alt="Screenshot 2024-12-31 at 2 06 23 AM" src="https://github.com/user-attachments/assets/46317ffe-494c-40d4-bb45-2d5ebdfcf6c4" />
 
